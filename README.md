@@ -3,7 +3,7 @@
 > CCAT is a simple C program that downloads a specified number of cat images from the internet.  
 > It's free to use or modify, intended to be a simple example of using `libcurl` and `libjson-c` in a C program. Fork it, optimize it, and share the love of cats!
 
-<h2 align="center">🐈‍⬛ Install</h2>
+<h2 align="center">🐈‍⬛ Packages needed</h2>
 
 > To compile CCAT from source, you'll need the following packages preinstalled:
 
